@@ -1,13 +1,16 @@
-import sys
-from PySide.QtCore import *
-from PySide.QtGui import *
-
-app = QApplication(sys.argv)
-
-win = QWidget()
-
-win.resize(320, 240) #กำหนดขนาดของหน้าต่างโปรแกรม
-win.setWindowTitle("Hello, World!") #กำหนดชื่อตรงหัวโปรแกรม
-win.show() #แสดง
-
-app.exec_()
+from pylab import *
+data = open('database.csv')
+alldata = data.readlines()
+listdata = []
+for i in alldata:
+    listdata.append(i.strip().split(','))
+x = []
+y = []
+country = input()
+year = input()
+for j in listdata:
+    if j[0] == country and j[1] == year:
+        x.append(int(j[4]))
+        print(j[3], "Total Damage = "+j[4]+" $.")
+plot(x)
+show()
