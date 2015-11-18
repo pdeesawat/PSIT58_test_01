@@ -1,0 +1,410 @@
+occurrence,year,"Country iso, Country name",disaster type,Total deaths,Affected,Injured,Homeless,Total affected,Total damage,
+Cambodia,2000,KHM,Flood,1,347,3448000,53,0,3448053,160000
+Cambodia,2001,KHM,Drought,1,0,300000,0,0,300000,0
+Cambodia,2001,KHM,Flood,1,56,1669182,0,0,1669182,15000
+Cambodia,2001,KHM,Miscellaneous accident,1,0,0,0,20000,20000,0
+Cambodia,2002,KHM,Drought,1,0,650000,0,0,650000,38000
+Cambodia,2002,KHM,Flood,1,29,1470000,0,0,1470000,100
+Cambodia,2004,KHM,Flood,1,0,0,0,0,0,0
+Cambodia,2005,KHM,Drought,1,0,600000,0,0,600000,0
+Cambodia,2005,KHM,Epidemic,1,7,0,0,0,0,0
+Cambodia,2005,KHM,Flood,1,16,0,0,0,0,0
+Cambodia,2005,KHM,Miscellaneous accident,1,13,0,0,0,0,0
+Cambodia,2006,KHM,Epidemic,1,0,4368,0,0,4368,0
+Cambodia,2006,KHM,Flood,2,5,38000,0,0,38000,0
+Cambodia,2007,KHM,Epidemic,1,182,17000,0,0,17000,0
+Cambodia,2007,KHM,Flood,1,2,19000,0,0,19000,1000
+Cambodia,2007,KHM,Transport accident,1,22,0,0,0,0,0
+Cambodia,2009,KHM,Storm,2,19,178000,91,0,178091,0
+Cambodia,2009,KHM,Transport accident,1,27,13,0,0,13,0
+Cambodia,2010,KHM,Flood,1,8,0,0,0,0,70000
+Cambodia,2010,KHM,Miscellaneous accident,2,358,0,388,0,388,0
+Cambodia,2011,KHM,Flood,1,247,1640000,23,0,1640023,521000
+Cambodia,2012,KHM,Flood,1,14,71500,0,0,71500,0
+Cambodia,2013,KHM,Flood,1,200,1500000,0,0,1500000,500000
+Cambodia,2014,KHM,Flood,1,45,472500,0,57950,530450,0
+Indonesia,2000,IDN,Earthquake,5,149,208500,3108,58500,270108,73000
+Indonesia,2000,IDN,Epidemic,2,25,1719,0,0,1719,0
+Indonesia,2000,IDN,Flood,3,264,475852,21,0,475873,113000
+Indonesia,2000,IDN,Landslide,4,126,54085,19,2645,56749,54600
+Indonesia,2000,IDN,Miscellaneous accident,1,10,0,30,0,30,0
+Indonesia,2000,IDN,Transport accident,10,674,0,150,0,150,0
+Indonesia,2000,IDN,Wildfire,1,0,0,0,0,0,0
+Indonesia,2001,IDN,Earthquake,2,0,12500,12,0,12512,0
+Indonesia,2001,IDN,Flood,4,402,80000,4,5690,85694,10000
+Indonesia,2001,IDN,Landslide,4,185,0,0,23910,23910,10000
+Indonesia,2001,IDN,Transport accident,11,634,44,127,0,171,0
+Indonesia,2002,IDN,Earthquake,4,11,11105,740,0,11845,0
+Indonesia,2002,IDN,Epidemic,1,17,757,0,0,757,0
+Indonesia,2002,IDN,Flood,7,230,590820,750,0,591570,351600
+Indonesia,2002,IDN,Industrial accident,1,10,0,15,0,15,0
+Indonesia,2002,IDN,Landslide,1,32,0,5,0,5,0
+Indonesia,2002,IDN,Miscellaneous accident,3,65,0,33,500,533,0
+Indonesia,2002,IDN,Transport accident,6,161,0,20,0,20,0
+Indonesia,2002,IDN,Volcanic activity,1,0,5000,0,0,5000,0
+Indonesia,2002,IDN,Wildfire,1,0,0,200,0,200,0
+Indonesia,2003,IDN,Drought,1,0,15000,0,0,15000,1000
+Indonesia,2003,IDN,Earthquake,3,1,3100,9,140,3249,0
+Indonesia,2003,IDN,Epidemic,1,0,2,0,0,2,0
+Indonesia,2003,IDN,Flood,8,414,438398,30,0,438428,0
+Indonesia,2003,IDN,Landslide,4,119,231006,322,0,231328,3961
+Indonesia,2003,IDN,Transport accident,11,243,198,68,0,266,0
+Indonesia,2004,IDN,Earthquake,6,165816,139580,1253,532898,673731,4519600
+Indonesia,2004,IDN,Epidemic,1,658,58301,0,0,58301,0
+Indonesia,2004,IDN,Flood,1,5,13000,0,0,13000,60000
+Indonesia,2004,IDN,Industrial accident,2,12,0,100,0,100,0
+Indonesia,2004,IDN,Landslide,4,119,5000,18,0,5018,3500
+Indonesia,2004,IDN,Miscellaneous accident,2,0,0,101,2500,2601,0
+Indonesia,2004,IDN,Storm,2,4,3715,0,0,3715,0
+Indonesia,2004,IDN,Transport accident,8,340,35,77,0,112,0
+Indonesia,2004,IDN,Volcanic activity,4,2,43443,105,0,43548,0
+Indonesia,2005,IDN,Earthquake,2,916,104847,1150,0,105997,0
+Indonesia,2005,IDN,Epidemic,2,87,350,0,0,350,0
+Indonesia,2005,IDN,Flood,3,154,20531,259,0,20790,0
+Indonesia,2005,IDN,Landslide,2,168,0,10,0,10,5000
+Indonesia,2005,IDN,Transport accident,6,418,48,128,0,176,0
+Indonesia,2005,IDN,Volcanic activity,1,0,26000,0,0,26000,0
+Indonesia,2005,IDN,Wildfire,1,0,0,0,0,0,0
+Indonesia,2006,IDN,Earthquake,5,6592,2377945,138642,699395,3215982,3155000
+Indonesia,2006,IDN,Flood,8,645,698141,97,670,698908,107300
+Indonesia,2006,IDN,Industrial accident,3,36,0,11,36000,36011,0
+Indonesia,2006,IDN,Landslide,3,184,3000,13,8300,11313,37943
+Indonesia,2006,IDN,Miscellaneous accident,1,23,0,0,0,0,0
+Indonesia,2006,IDN,Transport accident,10,722,485,40,0,525,0
+Indonesia,2006,IDN,Volcanic activity,1,0,11000,0,0,11000,0
+Indonesia,2006,IDN,Wildfire,1,0,0,200,0,200,14000
+Indonesia,2007,IDN,Earthquake,4,95,579969,2727,36800,619496,700000
+Indonesia,2007,IDN,Epidemic,3,403,35211,0,0,35211,0
+Indonesia,2007,IDN,Flood,8,438,559538,134,9875,569547,971000
+Indonesia,2007,IDN,Landslide,2,43,3990,0,0,3990,0
+Indonesia,2007,IDN,Miscellaneous accident,1,50,0,0,0,0,0
+Indonesia,2007,IDN,Transport accident,8,358,10,170,0,180,0
+Indonesia,2007,IDN,Volcanic activity,2,0,31912,0,0,31912,0
+Indonesia,2008,IDN,Earthquake,3,11,10565,162,0,10727,0
+Indonesia,2008,IDN,Flood,12,112,473275,0,2920,476195,1733
+Indonesia,2008,IDN,Industrial accident,1,25,0,0,0,0,0
+Indonesia,2008,IDN,Landslide,1,21,0,0,0,0,0
+Indonesia,2008,IDN,Miscellaneous accident,2,37,0,11,0,11,0
+Indonesia,2008,IDN,Volcanic activity,1,0,600,0,0,600,0
+Indonesia,2009,IDN,Earthquake,5,1330,2846745,3619,0,2850364,2381000
+Indonesia,2009,IDN,Flood,5,126,26800,4,0,26804,0
+Indonesia,2009,IDN,Industrial accident,1,41,0,0,0,0,0
+Indonesia,2009,IDN,Landslide,2,29,5,0,0,5,0
+Indonesia,2009,IDN,Miscellaneous accident,2,45,0,13,0,13,0
+Indonesia,2009,IDN,Transport accident,6,456,279,15,0,294,0
+Indonesia,2010,IDN,Earthquake,2,547,11452,412,4600,16464,0
+Indonesia,2010,IDN,Flood,7,411,52936,3424,230,56590,78000
+Indonesia,2010,IDN,Landslide,1,13,0,18,0,18,0
+Indonesia,2010,IDN,Miscellaneous accident,1,12,0,25,0,25,0
+Indonesia,2010,IDN,Transport accident,3,68,122,30,0,152,0
+Indonesia,2010,IDN,Volcanic activity,2,323,151745,455,0,152200,0
+Indonesia,2011,IDN,Earthquake,2,11,0,0,95,95,5850
+Indonesia,2011,IDN,Flood,6,62,15864,0,4000,19864,0
+Indonesia,2011,IDN,Landslide,2,53,0,4,0,4,0
+Indonesia,2011,IDN,Miscellaneous accident,1,48,0,39,0,39,0
+Indonesia,2011,IDN,Transport accident,9,359,614,200,0,814,0
+Indonesia,2011,IDN,Volcanic activity,2,3,2368,5,6000,8373,0
+Indonesia,2012,IDN,Earthquake,4,13,5820,151,2355,8326,0
+Indonesia,2012,IDN,Flood,7,41,32295,25,1000,33320,0
+Indonesia,2012,IDN,Landslide,2,32,115,100,0,215,0
+Indonesia,2012,IDN,Storm,2,21,10000,60,490,10550,1000
+Indonesia,2012,IDN,Transport accident,6,188,219,0,0,219,0
+Indonesia,2013,IDN,Earthquake,3,50,56638,2550,0,59188,130000
+Indonesia,2013,IDN,Flood,10,89,591276,0,0,591276,3000000
+Indonesia,2013,IDN,Industrial accident,1,28,10,0,0,10,0
+Indonesia,2013,IDN,Landslide,2,34,0,3,0,3,0
+Indonesia,2013,IDN,Miscellaneous accident,1,17,0,38,0,38,0
+Indonesia,2013,IDN,Transport accident,2,47,189,0,0,189,0
+Indonesia,2013,IDN,Volcanic activity,2,0,42027,0,0,42027,0
+Indonesia,2014,IDN,Flood,6,77,417977,0,5250,423227,926000
+Indonesia,2014,IDN,Industrial accident,3,46,0,5,0,5,0
+Indonesia,2014,IDN,Landslide,2,127,1900,0,2000,3900,0
+Indonesia,2014,IDN,Transport accident,5,262,53,0,0,53,0
+Indonesia,2014,IDN,Volcanic activity,2,39,115088,72,0,115160,186000
+Lao P Dem Rep,2000,LAO,Epidemic,2,44,9685,0,0,9685,0
+Lao P Dem Rep,2000,LAO,Flood,1,15,450000,0,0,450000,1000
+Lao P Dem Rep,2000,LAO,Transport accident,2,28,0,5,0,5,0
+Lao P Dem Rep,2001,LAO,Flood,1,0,453000,0,0,453000,0
+Lao P Dem Rep,2002,LAO,Flood,1,2,150000,0,0,150000,0
+Lao P Dem Rep,2007,LAO,Epidemic,1,2,0,0,0,0,0
+Lao P Dem Rep,2008,LAO,Flood,1,6,204190,0,0,204190,0
+Lao P Dem Rep,2009,LAO,Flood,1,10,0,0,0,0,0
+Lao P Dem Rep,2009,LAO,Storm,1,16,128796,91,0,128887,100000
+Lao P Dem Rep,2011,LAO,Flood,2,48,467000,0,0,467000,0
+Lao P Dem Rep,2013,LAO,Epidemic,1,77,36000,0,0,36000,0
+Lao P Dem Rep,2013,LAO,Flood,2,23,574176,77,0,574253,121000
+Lao P Dem Rep,2013,LAO,Transport accident,1,49,0,0,0,0,0
+Lao P Dem Rep,2014,LAO,Flood,1,0,750,0,0,750,0
+Malaysia,2000,MYS,Epidemic,2,4,988,0,0,988,0
+Malaysia,2000,MYS,Flood,1,12,8000,0,0,8000,1000
+Malaysia,2000,MYS,Storm,1,0,500,0,0,500,0
+Malaysia,2000,MYS,Transport accident,2,68,0,0,0,0,0
+Malaysia,2001,MYS,Flood,4,11,33200,0,0,33200,0
+Malaysia,2001,MYS,Transport accident,1,14,0,0,0,0,0
+Malaysia,2002,MYS,Landslide,1,10,0,0,0,0,0
+Malaysia,2002,MYS,Storm,1,2,155,0,0,155,0
+Malaysia,2003,MYS,Epidemic,1,2,3,0,0,3,0
+Malaysia,2003,MYS,Flood,3,8,18800,0,0,18800,0
+Malaysia,2004,MYS,Earthquake,1,80,0,767,4296,5063,500000
+Malaysia,2004,MYS,Flood,3,16,16038,0,15000,31038,10000
+Malaysia,2004,MYS,Storm,2,1,41000,0,0,41000,0
+Malaysia,2005,MYS,Flood,2,13,30600,0,0,30600,0
+Malaysia,2005,MYS,Wildfire,1,0,0,0,0,0,0
+Malaysia,2006,MYS,Flood,4,6,106518,0,0,106518,22000
+Malaysia,2007,MYS,Epidemic,1,56,0,0,0,0,0
+Malaysia,2007,MYS,Flood,2,46,137533,0,29000,166533,968000
+Malaysia,2008,MYS,Flood,2,0,8000,0,0,8000,0
+Malaysia,2009,MYS,Flood,2,0,10875,0,0,10875,0
+Malaysia,2010,MYS,Transport accident,1,26,0,11,0,11,0
+Malaysia,2011,MYS,Flood,1,2,20000,0,0,20000,0
+Malaysia,2011,MYS,Landslide,1,16,0,6,0,6,0
+Malaysia,2013,MYS,Flood,1,4,75000,0,0,75000,0
+Malaysia,2013,MYS,Transport accident,3,100,191,16,0,207,0
+Malaysia,2014,MYS,Drought,1,0,2200000,0,0,2200000,0
+Malaysia,2014,MYS,Flood,1,17,230000,0,0,230000,284000
+Malaysia,2014,MYS,Transport accident,5,270,0,0,0,0,0
+Myanmar,2001,MMR,Flood,1,51,0,0,3750,3750,0
+Myanmar,2001,MMR,Transport accident,1,16,0,13,0,13,0
+Myanmar,2002,MMR,Flood,1,21,50000,0,0,50000,0
+Myanmar,2004,MMR,Earthquake,1,71,12500,0,3200,15700,500000
+Myanmar,2004,MMR,Miscellaneous accident,1,30,0,30,0,30,0
+Myanmar,2004,MMR,Storm,1,236,0,0,25000,25000,688
+Myanmar,2005,MMR,Landslide,1,17,0,16,0,16,0
+Myanmar,2006,MMR,Flood,1,25,10000,0,0,10000,0
+Myanmar,2006,MMR,Storm,1,34,60075,31,0,60106,0
+Myanmar,2007,MMR,Epidemic,1,30,0,0,0,0,0
+Myanmar,2007,MMR,Flood,4,5,162317,110,4237,166664,0
+Myanmar,2007,MMR,Transport accident,2,51,0,0,0,0,0
+Myanmar,2008,MMR,Storm,1,138366,2400000,20000,0,2420000,4000000
+Myanmar,2008,MMR,Transport accident,1,38,44,0,0,44,0
+Myanmar,2009,MMR,Landslide,1,24,1351,0,0,1351,0
+Myanmar,2009,MMR,Transport accident,1,50,0,0,0,0,0
+Myanmar,2010,MMR,Industrial accident,1,14,0,58,0,58,0
+Myanmar,2010,MMR,Landslide,1,68,145000,0,0,145000,0
+Myanmar,2010,MMR,Storm,1,45,260000,49,0,260049,57000
+Myanmar,2010,MMR,Transport accident,1,22,0,0,0,0,0
+Myanmar,2011,MMR,Earthquake,1,74,18000,125,3152,21277,3600
+Myanmar,2011,MMR,Flood,1,151,35734,0,0,35734,1700
+Myanmar,2011,MMR,Miscellaneous accident,1,15,0,65,0,65,0
+Myanmar,2012,MMR,Earthquake,1,38,1255,231,0,1486,1170
+Myanmar,2012,MMR,Flood,1,2,85000,0,0,85000,0
+Myanmar,2013,MMR,Flood,1,7,73300,0,0,73300,0
+Myanmar,2013,MMR,Landslide,1,16,0,0,0,0,0
+Myanmar,2013,MMR,Miscellaneous accident,1,13,0,0,0,0,0
+Myanmar,2013,MMR,Transport accident,4,185,0,49,0,49,0
+Myanmar,2014,MMR,Flood,2,0,40000,0,0,40000,0
+Philippines,2000,PHL,Epidemic,1,1,664,0,0,664,0
+Philippines,2000,PHL,Flood,3,55,160393,0,5250,165643,4080
+Philippines,2000,PHL,Landslide,1,287,2800,38,0,2838,0
+Philippines,2000,PHL,Mass movement (dry),1,11,0,0,0,0,0
+Philippines,2000,PHL,Storm,6,394,6067076,355,120000,6187431,83464
+Philippines,2000,PHL,Transport accident,5,343,0,47,0,47,0
+Philippines,2000,PHL,Volcanic activity,1,0,68426,0,0,68426,2214
+Philippines,2001,PHL,Flood,3,43,91300,0,0,91300,8000
+Philippines,2001,PHL,Miscellaneous accident,1,73,0,51,0,51,0
+Philippines,2001,PHL,Storm,6,587,3349957,480,100000,3450437,99061
+Philippines,2001,PHL,Transport accident,2,35,0,0,0,0,0
+Philippines,2001,PHL,Volcanic activity,2,0,83221,0,0,83221,2580
+Philippines,2002,PHL,Drought,1,0,0,0,0,0,453
+Philippines,2002,PHL,Earthquake,1,15,73351,100,0,73451,1714
+Philippines,2002,PHL,Flood,4,90,155500,67,0,155567,1842
+Philippines,2002,PHL,Storm,6,215,979128,66,3000,982194,13534
+Philippines,2002,PHL,Transport accident,7,207,0,76,0,76,0
+Philippines,2003,PHL,Epidemic,1,2,12,0,0,12,0
+Philippines,2003,PHL,Flood,1,0,3500,0,0,3500,0
+Philippines,2003,PHL,Landslide,1,255,217934,54,0,217988,7000
+Philippines,2003,PHL,Miscellaneous accident,1,37,0,0,0,0,0
+Philippines,2003,PHL,Storm,8,95,383037,21,83203,466261,35302
+Philippines,2003,PHL,Transport accident,2,101,203,0,0,203,0
+Philippines,2004,PHL,Epidemic,1,32,98,0,0,98,0
+Philippines,2004,PHL,Flood,3,49,20194,0,1500,21694,0
+Philippines,2004,PHL,Landslide,1,8,0,6,0,6,0
+Philippines,2004,PHL,Miscellaneous accident,3,12,0,23,20200,20223,0
+Philippines,2004,PHL,Storm,8,1861,3232763,1315,7200,3241278,138867
+Philippines,2004,PHL,Transport accident,3,168,765,120,0,885,0
+Philippines,2005,PHL,Flood,2,5,193046,0,0,193046,515
+Philippines,2005,PHL,Industrial accident,1,24,0,0,0,0,0
+Philippines,2005,PHL,Miscellaneous accident,4,29,0,241,4500,4741,182
+Philippines,2005,PHL,Storm,2,34,20011,0,0,20011,2000
+Philippines,2005,PHL,Transport accident,1,24,0,9,0,9,0
+Philippines,2006,PHL,Flood,6,36,732509,0,0,732509,14157
+Philippines,2006,PHL,Industrial accident,2,0,21000,0,0,21000,0
+Philippines,2006,PHL,Landslide,3,1143,14607,44,0,14651,2203
+Philippines,2006,PHL,Miscellaneous accident,3,97,0,443,11200,11643,976
+Philippines,2006,PHL,Storm,10,1805,7819149,2659,0,7821808,330921
+Philippines,2006,PHL,Volcanic activity,1,0,43849,0,0,43849,0
+Philippines,2007,PHL,Drought,1,0,0,0,0,0,0
+Philippines,2007,PHL,Flood,5,40,86747,0,0,86747,6600
+Philippines,2007,PHL,Miscellaneous accident,1,0,0,0,13997,13997,0
+Philippines,2007,PHL,Storm,9,89,1922285,24,0,1922309,10215
+Philippines,2007,PHL,Transport accident,2,66,124,30,0,154,0
+Philippines,2007,PHL,Volcanic activity,1,0,14036,0,0,14036,0
+Philippines,2008,PHL,Flood,8,116,1552848,41,50000,1602889,39577
+Philippines,2008,PHL,Landslide,1,24,5000,28,0,5028,0
+Philippines,2008,PHL,Miscellaneous accident,1,1,0,3,5000,5003,0
+Philippines,2008,PHL,Storm,11,819,6846388,946,4645,6851979,441625
+Philippines,2008,PHL,Transport accident,3,913,171,0,0,171,0
+Philippines,2009,PHL,Earthquake,1,0,380,2,10,392,90
+Philippines,2009,PHL,Flood,8,55,1083261,15,0,1083276,29314
+Philippines,2009,PHL,Landslide,1,10,0,16,0,16,0
+Philippines,2009,PHL,Storm,14,1242,12220696,867,100,12221663,932703
+Philippines,2009,PHL,Transport accident,4,99,957,0,0,957,0
+Philippines,2009,PHL,Volcanic activity,1,0,47137,0,0,47137,0
+Philippines,2010,PHL,Epidemic,1,737,0,123939,0,123939,0
+Philippines,2010,PHL,Flood,9,162,2846913,22,0,2846935,50589
+Philippines,2010,PHL,Landslide,1,2,925,2,0,927,78
+Philippines,2010,PHL,Miscellaneous accident,2,15,0,0,2000,2000,0
+Philippines,2010,PHL,Storm,3,212,2595412,133,0,2595545,284420
+Philippines,2010,PHL,Transport accident,4,77,14,20,0,34,0
+Philippines,2010,PHL,Volcanic activity,1,0,14161,0,0,14161,0
+Philippines,2011,PHL,Earthquake,1,0,25,3,0,28,0
+Philippines,2011,PHL,Epidemic,3,56,7395,200,0,7595,0
+Philippines,2011,PHL,Flood,15,122,2218638,190,0,2218828,202787
+Philippines,2011,PHL,Landslide,3,29,870,19,0,889,0
+Philippines,2011,PHL,Miscellaneous accident,3,13,0,17,30000,30017,701
+Philippines,2011,PHL,Storm,12,1782,9462385,6291,0,9468676,527238
+Philippines,2011,PHL,Transport accident,2,40,1,20,0,21,0
+Philippines,2011,PHL,Volcanic activity,2,0,33931,0,0,33931,0
+Philippines,2012,PHL,Earthquake,3,114,353034,123,0,353157,12144
+Philippines,2012,PHL,Epidemic,1,30,3158,0,0,3158,0
+Philippines,2012,PHL,Flood,8,157,4578850,16,35762,4614628,75330
+Philippines,2012,PHL,Landslide,1,75,7,16,0,23,0
+Philippines,2012,PHL,Miscellaneous accident,1,18,0,3,0,3,0
+Philippines,2012,PHL,Storm,9,2039,7557756,2724,0,7560480,918137
+Philippines,2012,PHL,Transport accident,1,24,0,0,0,0,0
+Philippines,2013,PHL,Earthquake,1,230,3221248,976,0,3222224,51459
+Philippines,2013,PHL,Flood,5,105,4500279,59,0,4500338,2234788
+Philippines,2013,PHL,Storm,8,7415,17915713,28858,0,17944571,10136563
+Philippines,2013,PHL,Transport accident,2,159,629,20,0,649,0
+Philippines,2014,PHL,Flood,3,5,145130,0,0,145130,0
+Philippines,2014,PHL,Miscellaneous accident,1,2,0,599,0,599,0
+Philippines,2014,PHL,Storm,9,326,13066714,2269,0,13068983,1062899
+Philippines,2014,PHL,Transport accident,1,0,14,0,0,14,0
+Philippines,2014,PHL,Volcanic activity,1,0,60545,0,0,60545,0
+Singapore,2000,SGP,Epidemic,1,2,2022,0,0,2022,0
+Singapore,2003,SGP,Epidemic,1,33,205,0,0,205,0
+Thailand,2000,THA,Epidemic,1,89,1946,0,0,1946,0
+Thailand,2000,THA,Flood,4,107,3323231,570,0,3323801,109056
+Thailand,2000,THA,Industrial accident,1,1,200,194,0,394,0
+Thailand,2000,THA,Miscellaneous accident,1,0,0,0,800,800,3517
+Thailand,2000,THA,Storm,1,2,41219,0,0,41219,0
+Thailand,2000,THA,Transport accident,5,105,0,112,0,112,0
+Thailand,2001,THA,Flood,6,222,465510,139,4730,470379,28500
+Thailand,2001,THA,Industrial accident,1,11,0,26,0,26,0
+Thailand,2001,THA,Miscellaneous accident,1,17,5000,90,0,5090,0
+Thailand,2001,THA,Storm,1,0,150,0,0,150,0
+Thailand,2001,THA,Transport accident,2,32,0,27,0,27,0
+Thailand,2002,THA,Drought,1,0,5000000,0,0,5000000,2300
+Thailand,2002,THA,Flood,2,154,3290858,62,0,3290920,35827
+Thailand,2002,THA,Landslide,1,35,0,0,33000,33000,0
+Thailand,2002,THA,Storm,2,1,27000,100,3104,30204,2000
+Thailand,2002,THA,Transport accident,2,25,0,37,0,37,0
+Thailand,2003,THA,Epidemic,2,9,11,0,0,11,0
+Thailand,2003,THA,Flood,3,9,107700,0,0,107700,26400
+Thailand,2003,THA,Storm,1,0,5000,0,0,5000,0
+Thailand,2004,THA,Earthquake,1,8345,58550,8457,0,67007,1000000
+Thailand,2004,THA,Epidemic,1,14,8,0,0,8,0
+Thailand,2004,THA,Flood,3,13,507000,0,0,507000,175000
+Thailand,2004,THA,Industrial accident,1,14,0,2,0,2,0
+Thailand,2004,THA,Landslide,1,3,100,10,0,110,0
+Thailand,2004,THA,Miscellaneous accident,1,0,0,0,3500,3500,0
+Thailand,2004,THA,Storm,2,14,9000,0,50,9050,0
+Thailand,2004,THA,Transport accident,2,39,0,30,0,30,0
+Thailand,2005,THA,Drought,1,0,0,0,0,0,420000
+Thailand,2005,THA,Flood,2,76,819270,40,0,819310,218000
+Thailand,2005,THA,Storm,2,10,3500,0,0,3500,20246
+Thailand,2005,THA,Transport accident,3,27,0,265,0,265,0
+Thailand,2005,THA,Wildfire,1,0,0,0,0,0,0
+Thailand,2006,THA,Flood,3,280,2557308,0,0,2557308,34940
+Thailand,2007,THA,Flood,5,53,183000,0,0,183000,1500
+Thailand,2007,THA,Transport accident,5,160,0,207,0,207,0
+Thailand,2008,THA,Drought,1,0,10000000,0,0,10000000,0
+Thailand,2008,THA,Flood,3,39,1572157,0,0,1572157,27844
+Thailand,2008,THA,Storm,2,0,0,0,1000,1000,0
+Thailand,2008,THA,Transport accident,2,32,0,27,0,27,0
+Thailand,2009,THA,Flood,1,15,200000,0,0,200000,0
+Thailand,2009,THA,Miscellaneous accident,1,66,0,200,0,200,0
+Thailand,2009,THA,Transport accident,1,17,0,59,0,59,0
+Thailand,2010,THA,Drought,1,0,6482602,0,0,6482602,0
+Thailand,2010,THA,Epidemic,1,2,880,0,0,880,0
+Thailand,2010,THA,Flood,1,258,8970653,0,0,8970653,332000
+Thailand,2010,THA,Miscellaneous accident,1,0,0,0,300,300,0
+Thailand,2011,THA,Drought,1,0,0,0,0,0,0
+Thailand,2011,THA,Earthquake,1,1,0,16,0,16,0
+Thailand,2011,THA,Epidemic,1,27,37728,0,0,37728,0
+Thailand,2011,THA,Flood,2,877,10216110,0,0,10216110,40317000
+Thailand,2011,THA,Storm,1,18,1000000,0,0,1000000,0
+Thailand,2011,THA,Transport accident,1,12,0,4,0,4,0
+Thailand,2012,THA,Flood,1,0,235545,0,0,235545,0
+Thailand,2012,THA,Industrial accident,1,12,0,129,0,129,0
+Thailand,2013,THA,Flood,3,84,3500000,0,15254,3515254,579000
+Thailand,2013,THA,Miscellaneous accident,1,42,0,0,0,0,0
+Thailand,2013,THA,Transport accident,4,78,0,20,0,20,0
+Thailand,2014,THA,Drought,1,0,0,0,0,0,0
+Thailand,2014,THA,Earthquake,1,1,17500,23,0,17523,62000
+Thailand,2014,THA,Extreme temperature ,1,63,1000000,0,0,1000000,0
+Thailand,2014,THA,Flood,4,29,131280,8,0,131288,10000
+Thailand,2014,THA,Industrial accident,1,10,0,17,0,17,0
+Thailand,2014,THA,Storm,1,0,0,0,2000,2000,0
+Thailand,2014,THA,Transport accident,3,75,0,53,0,53,0
+Viet Nam,2000,VNM,Flood,2,496,5025000,7,0,5025007,265000
+Viet Nam,2000,VNM,Landslide,2,73,0,39,0,39,0
+Viet Nam,2000,VNM,Storm,7,23,2505,169,11860,14534,26035
+Viet Nam,2000,VNM,Transport accident,1,57,0,11,0,11,0
+Viet Nam,2001,VNM,Flood,4,339,1608445,6,0,1608451,88700
+Viet Nam,2001,VNM,Miscellaneous accident,1,0,0,4,500,504,0
+Viet Nam,2001,VNM,Storm,3,53,177450,89,23100,200639,83200
+Viet Nam,2001,VNM,Transport accident,5,70,0,22,0,22,0
+Viet Nam,2002,VNM,Drought,1,0,1300000,0,0,1300000,200000
+Viet Nam,2002,VNM,Flood,3,147,1431700,116,0,1431816,84100
+Viet Nam,2002,VNM,Miscellaneous accident,1,60,0,100,0,100,2000
+Viet Nam,2002,VNM,Storm,1,0,1800,0,0,1800,100
+Viet Nam,2002,VNM,Wildfire,1,0,0,0,0,0,0
+Viet Nam,2003,VNM,Epidemic,2,20,66,0,0,66,0
+Viet Nam,2003,VNM,Flood,3,128,402880,63,13880,416823,105000
+Viet Nam,2003,VNM,Industrial accident,2,12,3500,35,0,3535,0
+Viet Nam,2003,VNM,Miscellaneous accident,1,37,0,55,0,55,0
+Viet Nam,2003,VNM,Storm,1,0,0,18,5000,5018,0
+Viet Nam,2003,VNM,Transport accident,1,14,0,6,0,6,0
+Viet Nam,2004,VNM,Epidemic,1,42,51,0,0,51,0
+Viet Nam,2004,VNM,Flood,3,96,35000,18,0,35018,8000
+Viet Nam,2004,VNM,Industrial accident,1,0,0,400,0,400,0
+Viet Nam,2004,VNM,Landslide,1,23,0,0,0,0,0
+Viet Nam,2004,VNM,Storm,2,70,500900,5,0,500905,30000
+Viet Nam,2004,VNM,Transport accident,1,50,0,0,0,0,0
+Viet Nam,2005,VNM,Drought,1,0,410000,0,0,410000,42120
+Viet Nam,2005,VNM,Epidemic,1,16,83,0,0,83,0
+Viet Nam,2005,VNM,Flood,5,192,74185,3,18205,92393,54000
+Viet Nam,2005,VNM,Storm,4,116,367632,28,0,367660,250250
+Viet Nam,2005,VNM,Transport accident,5,94,1,84,0,85,0
+Viet Nam,2006,VNM,Flood,5,178,50000,120,2000,52120,9000
+Viet Nam,2006,VNM,Storm,6,401,2944720,1890,350680,3297290,1090000
+Viet Nam,2006,VNM,Transport accident,1,19,0,0,0,0,0
+Viet Nam,2007,VNM,Epidemic,1,27,0,0,0,0,0
+Viet Nam,2007,VNM,Flood,5,230,962000,172,0,962172,790000
+Viet Nam,2007,VNM,Industrial accident,2,82,0,80,0,80,2000
+Viet Nam,2007,VNM,Storm,1,96,637755,150,47525,685430,191000
+Viet Nam,2007,VNM,Transport accident,1,13,0,24,0,24,0
+Viet Nam,2008,VNM,Flood,5,157,632500,4,0,632504,483000
+Viet Nam,2008,VNM,Storm,5,254,143830,159,12660,156649,190500
+Viet Nam,2008,VNM,Transport accident,2,25,0,18,0,18,0
+Viet Nam,2009,VNM,Flood,2,37,740000,0,0,740000,0
+Viet Nam,2009,VNM,Landslide,1,13,0,1,0,1,0
+Viet Nam,2009,VNM,Storm,3,306,2867820,1005,108635,2977460,1065200
+Viet Nam,2009,VNM,Transport accident,2,54,36,15,0,51,0
+Viet Nam,2010,VNM,Flood,4,186,1489750,83,0,1489833,660200
+Viet Nam,2010,VNM,Storm,3,35,32960,20,1620,34600,44500
+Viet Nam,2010,VNM,Transport accident,2,64,12,0,0,12,0
+Viet Nam,2011,VNM,Flood,3,122,1361570,14,0,1361584,219002
+Viet Nam,2011,VNM,Industrial accident,2,35,0,21,0,21,0
+Viet Nam,2011,VNM,Storm,2,16,0,63,0,63,0
+Viet Nam,2011,VNM,Transport accident,2,28,27,0,0,27,0
+Viet Nam,2012,VNM,Flood,1,34,0,40,17500,17540,30000
+Viet Nam,2012,VNM,Storm,3,38,59320,107,279545,338972,342800
+Viet Nam,2012,VNM,Transport accident,1,35,0,23,0,23,0
+Viet Nam,2013,VNM,Flood,6,141,2158865,66,2070,2161001,78500
+Viet Nam,2013,VNM,Industrial accident,1,24,4385,97,30,4512,0
+Viet Nam,2013,VNM,Miscellaneous accident,1,10,0,0,0,0,0
+Viet Nam,2013,VNM,Storm,4,79,1962485,584,375,1963444,1474230
+Viet Nam,2014,VNM,Storm,3,38,48075,0,0,48075,10700
+Viet Nam,2014,VNM,Transport accident,1,16,0,5,0,5,0
