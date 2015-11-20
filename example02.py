@@ -26,7 +26,7 @@ for j in listdata:
 trace1 = go.Scatter(
     x = year,
     y = affect,
-    name = 'Total Affected'
+    name = 'Total Affected' 
 )
 trace2 = go.Scatter(
     x = year,
@@ -45,26 +45,26 @@ trace3 = go.Scatter(
 data = [trace1, trace2, trace3]
 layout = go.Layout(
     title = 'ASIAN DISASTER',
-    width = 3000,
+    width = 8000,
     xaxis=dict(
         domain=[0.3, 0.7]
     ),
     yaxis=dict(
         title = 'Total Affected',
         titlefont=dict(
-            color='#1f77b4'
+            color='#ff8247'
         ),
         tickfont=dict(
-            color='#1f77b4'
+            color='#ff8247'
         )
     ),
     yaxis2=dict(
         title = 'Total Damage',
         titlefont=dict(
-            color='#ff7f0e'
+            color='#EE00EE'
         ),
         tickfont=dict(
-            color='#ff7f0e'
+            color='#EE00EE'
         ),
         anchor='free',
         overlaying='y',
@@ -74,10 +74,10 @@ layout = go.Layout(
     yaxis3=dict(
         title = 'Total Death',
         titlefont=dict(
-            color='#d62728'
+            color='#ff6a6a'
         ),
         tickfont=dict(
-            color='#d62728'
+            color='#ff6a6a'
         ),
         anchor='x',
         overlaying='y',
@@ -85,4 +85,4 @@ layout = go.Layout(
     ),
 )
 fig = go.Figure(data=data, layout=layout)
-plot_url = py.plot(fig, filename='bennyy')
+plot_url = py.plot(fig, filename='pdeesawat69')
