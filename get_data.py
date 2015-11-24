@@ -1,11 +1,12 @@
 from pylab import *
-data = open('database.csv')
+data = open('database.csv')  ### 'database.csv' change name to your file
 alldata = data.readlines()
 listdata = []
 for i in alldata:
     listdata.append(i.strip().split(','))
 x = []
 y = []
+
 country = input()
 year = input()
 for j in listdata:
