@@ -19,15 +19,8 @@ for i in range(5):
             year_x.append(int(j[1]))
             death_z.append(int(j[5]))
             types_y.append(type_z[i])
-    trace.append(go.Scatter(
-    x=year_x,
-    y=death_z,
-    name=type_z[i],
-    line = dict(
-        color = fill_colors[i],
-        width = 1.5),
-        )
-    )
+    trace.append(go.Scatter(x=year_x, y=death_z, name=type_z[i],
+    line = dict(color = fill_colors[i], width = 1.5), ))
 
 data = trace
 layout = go.Layout(
@@ -37,20 +30,15 @@ layout = go.Layout(
     xaxis=dict(
         domain=[1, 0.7],
         # set x-axis' labels direction at 45 degree angle
-        tickangle=-45,
-    ),
-    yaxis=dict(
-        title='Total Death',
-        titlefont=dict(
-            color='#eb0056'
-        ),
-        tickfont=dict(
-            color='#eb0056'
-        )
-    ),
+        tickangle=-45, ),
+    
+    yaxis=dict(title='Total Death',
+        titlefont=dict(color='#eb0056'),
+        tickfont=dict(color='#eb0056')),
+    
     autosize=True,
     plot_bgcolor=["rgba(0, 0, 0, 0)"],
-    paper_bgcolor=["rgba(0, 0, 0, 0)"],
-    )
+    paper_bgcolor=["rgba(0, 0, 0, 0)"], )
+
 fig = go.Figure(data=data, layout=layout)
 plot_url = py.plot(fig, filename='Total_Death_in_Malaysia')
