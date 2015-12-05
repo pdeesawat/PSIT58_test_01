@@ -24,32 +24,17 @@ for i in range(5):
     x=year_x,
     y=affected_z,
     name=type_z[i],
-    line = dict(
-        color = fill_colors[i],
-        width = 2),
-    marker=dict(
-        symbol='circle',
-        sizemode='diameter',
-        sizeref=0.85,
-        size=size[i],
-        line=dict(
-            width=2
-        ),
-    )
-        )
-    )
+    line = dict(color = fill_colors[i], width = 2),
+    marker=dict(symbol='circle', sizemode='diameter', sizeref=0.85, size=size[i],
+        line=dict(width=2), )))
+    
 data = trace
 layout = go.Layout(
     title='Total Affect in Myanmar',
-    yaxis=dict(
-        title='Total Affected',
-        titlefont=dict(
-            color='#eb0056'
-        ),
-        tickfont=dict(
-            color='#eb0056'
-        )
-    ),
+    yaxis=dict(title='Total Affected',
+        titlefont=dict(color='#eb0056'),
+        tickfont=dict(color='#eb0056')),
+    
     paper_bgcolor='rgb(243, 243, 243)',
     plot_bgcolor='rgb(243, 243, 243)'
 )

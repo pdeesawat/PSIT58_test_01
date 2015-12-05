@@ -20,38 +20,19 @@ for i in range(5):
             year_x.append(int(j[1]))
             damage_z.append(int(j[4]))
             types_y.append(type_z[i])
-    trace.append(go.Scatter(
-    x=year_x,
-    y=damage_z,
-    name=type_z[i],
-    line = dict(
-        color = fill_colors[i],
-        width = 2),
-    marker=dict(
-        symbol='circle',
-        sizemode='diameter',
-        sizeref=0.85,
-        size=size[i],
-        line=dict(
-            width=2
-        ),
-    )
-        )
-    )
+    trace.append(go.Scatter(x=year_x, y=damage_z, name=type_z[i],
+    line = dict(color = fill_colors[i], width = 2),
+    marker=dict(symbol='circle', sizemode='diameter', sizeref=0.85, size=size[i],
+        line=dict(width=2), )))
+
 data = trace
 layout = go.Layout(
     title='Total Damage in Myanmar',
-    yaxis=dict(
-        title='Total Damage',
-        titlefont=dict(
-            color='#d60081'
-        ),
-        tickfont=dict(
-            color='#d60081'
-        )
-    ),
+    yaxis=dict(title='Total Damage',
+        titlefont=dict(color='#d60081'),
+        tickfont=dict(color='#d60081')),
     paper_bgcolor='rgb(243, 243, 243)',
-    plot_bgcolor='rgb(243, 243, 243)'
-)
+    plot_bgcolor='rgb(243, 243, 243)')
+
 fig = go.Figure(data=data, layout=layout)
 plot_url = py.plot(fig, filename='Total_Damage_in_Myanmar')
