@@ -19,33 +19,17 @@ for i in range(5):
             year_x.append(int(j[1]))
             death_z.append(int(j[5]))
             types_y.append(type_z[i])
-    trace.append(go.Bar(
-    y=year_x,
-    x=death_z,
-    name=type_z[i],
-    orientation = 'h',
-    marker = dict(
-        color = fill_colors[i],
-        line = dict(
-            color = fill_colors[i],
-            width = 1,
-            )
-        )
-    )
-)
+    trace.append(go.Bar(y=year_x, x=death_z, name=type_z[i], orientation = 'h',
+    marker = dict(color = fill_colors[i],
+        line = dict(color = fill_colors[i], width = 1, ))))
+    
 data = trace
 layout = go.Layout(
     title='Total Death In Thailand',
     barmode='stack',
-    xaxis=dict(
-        title='Total Death',
-        titlefont=dict(
-            color='#ff2323'
-        ),
-        tickfont=dict(
-            color='#ff2323'
-        )
-    ),
-)
+    xaxis=dict(title='Total Death',
+        titlefont=dict(color='#ff2323'),
+        tickfont=dict(color='#ff2323')), )
+
 fig = go.Figure(data=data, layout=layout)
 plot_url = py.plot(fig, filename='Total_Death_in_Thailand')
