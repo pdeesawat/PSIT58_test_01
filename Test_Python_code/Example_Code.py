@@ -25,11 +25,11 @@ for cell in listdata:   #Select data from input
         death.append(int(cell[5]))
     
 """Part of code that we set data in Graph"""
-trace1 = go.Scatter(x=[1, 2, 3], y=[4, 5, 6], name='yaxis1 data')
-trace2 = go.Scatter(x=[2, 3, 4], y=[40, 50, 60], name='yaxis2 data', yaxis='y2')
-trace3 = go.Scatter(x=[4, 5, 6], y=[40000, 50000, 60000], name='yaxis3 data',yaxis='y3')
-trace4 = go.Scatter(x=[5, 6, 7], y=[400000, 500000, 600000], name='yaxis4 data', yaxis='y4')
-data = [trace1, trace2, trace3, trace4]
+#trace_name = go.Scatter(x = data, y = data, name = trace name)
+trace1 = go.Scatter(x = year, y = affect, name = 'Total Affected')
+trace2 = go.Scatter(x = year, y = damage, name = 'Total Damage', yaxis='y2')
+trace3 = go.Scatter(x = year, y = death, name = 'Total Death', yaxis='y3')
+data = [trace1, trace2, trace3]
 
 """Part of code that adjust layout of graph"""
 layout = go.Layout(title='multiple y-axes example', width=800,
