@@ -1,0 +1,4 @@
+<div>
+    <a href="https://plot.ly/~bennyy/226/" target="_blank" title="Asian disaster" style="display: block; text-align: center;"><img src="https://plot.ly/~bennyy/226.png" alt="Asian disaster" style="max-width: 100%;width: 800px;"  width="800" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="bennyy:226"  src="https://plot.ly/embed.js" async></script>
+</div>
