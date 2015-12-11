@@ -35,7 +35,8 @@ layout = go.Layout(
     
     yaxis=dict(title='Total Affected',
         titlefont=dict(color='#eb0056'),
-        tickfont=dict(color='#eb0056')),
+        tickfont=dict(color='#eb0056')
+               ),
     
     autosize=True,
     plot_bgcolor=["rgba(0, 0, 0, 0)"],
