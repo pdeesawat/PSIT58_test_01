@@ -34,13 +34,11 @@ layout = go.Layout(
     
     yaxis=dict(title='Total Damage',
         titlefont=dict(color='#eb0056'),
-        tickfont=dict(color='#eb0056')
-               ),
+        tickfont=dict(color='#eb0056')),
     
     autosize=True,
     plot_bgcolor=["rgba(0, 0, 0, 0)"],
-    paper_bgcolor=["rgba(0, 0, 0, 0)"],
-    )
+    paper_bgcolor=["rgba(0, 0, 0, 0)"],)
 
 fig = go.Figure(data=data, layout=layout)
 plot_url = py.plot(fig, filename='Total_Damage_in_Malaysia')
